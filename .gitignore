@@ -1,0 +1,42 @@
+# macOS
+.DS_Store
+*.swp
+*.swo
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Compiled output
+dist/
+tmp/
+out-tsc/
+bazel-out/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Angular
+.angular/
+
+# Sass
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+# Environment variables
+.env
+.env.*
+
+# Miscellaneous
+.idea/
+.vscode/
+*.swp
+*.swo
